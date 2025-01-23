@@ -4,8 +4,6 @@ This Project contains an **interactive Excel dashboard** that visualizes traffic
 ![Traffic Collision Analysis Dashboard](https://github.com/thusharanv/thushara/blob/main/Excel/Dashboard.png)
 ## Features:
 - **Interactive slicers** to filter data by borough.
-  The slicers are used to control and analyse the charts by the borough variable.
- ![Interactive Dashboard](https://github.com/thusharanv/thushara/blob/main/Excel/interactive.png)
 - **Charts and Pivot Tables** that show trends, injury statistics, and other key metrics related to traffic collisions.
 - **Data-driven insights** that can be customized by the user through Excel's built-in functionality
 
@@ -19,7 +17,8 @@ The data used in this dashboard comes from the NYC Opendata and is available in 
 The dashboard is organized with the following sections:
    - **Charts**: Various visualizations showing traffic collision trends.
    - **Slicers**: Interactive filters for deeper analysis.
-
+The slicers are used to control and analyse the charts by the borough variable.
+ ![Interactive Dashboard](https://github.com/thusharanv/thushara/blob/main/Excel/interactive.png)
 ### Data Structure:
 The workbook includes the following sheets:
 1. **Dashboard**: The final interactive dashboard where charts, pivot tables, and slicers are displayed.
