@@ -16,7 +16,9 @@ The data used in this dashboard comes from the NYC Opendata and is available in 
 > Note: The dataset in the Excel file might have been processed or cleaned for analysis purposes. Also, since the dataset is really large, used only data(193523 rows) from 12/18/22-01/13/2025 for the analysis.
 
 ## How to Use:
-1. Download the Excel file: [**Download Dashboard**](https://github.com/yourusername/yourrepositoryname).
+1. Download the Excel file: ## Download and Extract the Dashboard
+You can download the Excel dashboard in a compressed format from 
+After downloading, extract the ZIP file to access the dashboard.
 2. Open the file in **Microsoft Excel** (desktop version is recommended for full functionality).
 3. Use the **slicers** to filter data by borough, the slicers will dynamically update the charts and pivot tables on the dashboard.
 4. The dashboard is organized with the following sections:
