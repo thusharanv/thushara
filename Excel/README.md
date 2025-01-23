@@ -1,7 +1,7 @@
 # Traffic Collision Analysis Dashboard
 
 This Project contains an **interactive Excel dashboard** that visualizes traffic collision data. The dashboard allows users to explore various aspects of traffic accidents, including the number of injuries and fatalities, contributing factors, and trends across different boroughs and times of the day.
-
+![Traffic Collision Analysis Dashboard](thushara/Excel/Dashboard.png)
 ## Features:
 - **Interactive slicers** to filter data by borough.
 - **Charts and Pivot Tables** that show trends, injury statistics, and other key metrics related to traffic collisions.
