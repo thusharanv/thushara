@@ -8,7 +8,7 @@ This repository contains an **interactive Excel dashboard** that visualizes traf
 - **Data-driven insights** that can be customized by the user through Excel's built-in functionality
 
 ## Data Source:
-The data used in this dashboard comes from (https://data.cityofnewyork.us/Public-Safety/Motor-Vehicle-Collisions-Crashes/h9gi-nx95/data_preview)and is available in the raw format within the file. The dataset contains information on:
+The data used in this dashboard comes from (https://data.cityofnewyork.us/Public-Safety/Motor-Vehicle-Collisions-Crashes/h9gi-nx95/data_preview) and is available in the raw format within the file. The dataset contains information on:
 - **Collision details** (date, time, location)
 - **Persons involved** (injured or killed)
 - **Vehicle types and contributing factors**
