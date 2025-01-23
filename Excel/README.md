@@ -61,5 +61,12 @@ Contributing Factors: Factors identified for each vehicle contributing to the co
 This dataset allows users to explore trends in traffic collisions over time, identify high-risk locations, and examine the types of vehicles and contributing factors involved in accidents.
 Users can filter and analyze the data by borough, contributing factor, and time of day to identify patterns and inform safety strategies.
 The data can help local authorities, urban planners, and safety advocates focus on high-priority areas for traffic safety improvements.
+### The collision plots revealed that the majority of collisions happened at Brooklyn and Queens followed by Manhattan (excluding the unknown).
+### Through the analysis of collision data, we observed that **Friday** consistently has the highest number of traffic collisions. This could be due to factors like higher traffic volume, changes in driver behavior as the weekend approaches, or other factors that need further investigation.
+### The analysis revealed the following peak hours for traffic collisions:
+- **12 AM (Midnight)**: Collisions are relatively high during this time, possibly due to late-night driving or changes in road conditions.
+- **8 AM**: A significant peak, likely related to morning rush hour traffic.
+- **Increasing Trend from 1 PM to 5 PM**: Collisions gradually increase in the afternoon, with a noticeable peak between **4 PM - 5 PM**, corresponding with the evening rush hour.
+### Driver Inattention/ Distractionis the major contributing factor for collisions out of the the specified factors.
 
 
