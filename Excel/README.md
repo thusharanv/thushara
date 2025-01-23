@@ -70,6 +70,6 @@ The data can help local authorities, urban planners, and safety advocates focus 
 - **8 AM**: A significant peak, likely related to morning rush hour traffic.
 - **Increasing Trend from 1 PM to 5 PM**: Collisions gradually increase in the afternoon, with a noticeable peak between **4 PM - 5 PM**, corresponding with the evening rush hour.
 ![hourly](https://github.com/thusharanv/thushara/blob/main/Excel/hourly.png)
-#### Driver Inattention/ Distractionis the major contributing factor for collisions out of the the specified factors.
+#### Driver Inattention/ Distraction is the major contributing factor for collisions out of the the specified factors.
 ![Factors](https://github.com/thusharanv/thushara/blob/main/Excel/factor.png)
 
