@@ -31,7 +31,7 @@ This dashboard was created as part of an analysis project to explore traffic col
 High-Level Summary of the Traffic Collision Data
 This dataset contains detailed information about traffic collisions, including incidents involving pedestrians, cyclists, and motorists. The data is used to analyze patterns and trends in traffic accidents, injuries, and fatalities across different boroughs and time periods.
 
-Key Data Features:
+## Key Data Features:
 Collision Date and Time:
 Crash Date (crash_date): The date when the collision occurred.
 Crash Time (crash_time): The time when the collision took place.
@@ -55,7 +55,8 @@ Number of Motorists Killed (number_of_motorist_killed): The number of vehicle oc
 Vehicle Information:
 Vehicle Type Code: Categorization of the type of vehicle involved (e.g., car, motorcycle, bicycle, truck).
 Contributing Factors: Factors identified for each vehicle contributing to the collision (e.g., speeding, distracted driving, failure to yield).
-Key Insights:
+
+## Key Insights:
 This dataset allows users to explore trends in traffic collisions over time, identify high-risk locations, and examine the types of vehicles and contributing factors involved in accidents.
 Users can filter and analyze the data by borough, contributing factor, and time of day to identify patterns and inform safety strategies.
 The data can help local authorities, urban planners, and safety advocates focus on high-priority areas for traffic safety improvements.
